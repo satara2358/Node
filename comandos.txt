@@ -6,3 +6,4 @@ npm start
 
 ./node_modules/.bin/eslint --init //
 npm install standard -D // 
+npm install cors -E // para uso de cualquier origen 
