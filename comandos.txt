@@ -1,0 +1,7 @@
+npm init // iniciar un proyecto
+npm install nodemon -D // 
+npm install express // https://github.com/expressjs/express
+npm install eslint -D
+
+./node_modules/.bin/eslint --init //
+npm install standard -D // 
